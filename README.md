@@ -1,17 +1,12 @@
 # ui2
 
 #Tourist app UI
-A new Flutter application.
 
-## Getting Started
+Simple UI for travel app
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_2021-12-25-23-12-31-211_com example ui2](https://user-images.githubusercontent.com/93790564/147393772-c3d63876-a727-4ad4-91c3-7a7ed26a02f8.jpg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Screenshot_2021-12-25-23-12-26-522_com example ui2](https://user-images.githubusercontent.com/93790564/147393771-b597145a-831a-487f-a71a-ea34c0daaffa.jpg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_2021-12-25-23-12-39-889_com example ui2](https://user-images.githubusercontent.com/93790564/147393770-5a3f019e-6f8c-4983-9b60-0c9476a1e638.jpg)
