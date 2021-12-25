@@ -4,6 +4,7 @@
 
 Simple UI for travel app
 
+===> The following are screenshots of UI:
 
 ![Screenshot_2021-12-25-23-12-31-211_com example ui2](https://user-images.githubusercontent.com/93790564/147393772-c3d63876-a727-4ad4-91c3-7a7ed26a02f8.jpg)
 
